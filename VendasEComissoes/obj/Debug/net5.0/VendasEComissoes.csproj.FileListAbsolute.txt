@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.exe
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.deps.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.runtimeconfig.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.runtimeconfig.dev.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.pdb
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.AssemblyInfo.cs
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\refint\VendasEComissoes.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.pdb
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.genruntimeconfig.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\VendasEComissoes\obj\Debug\net5.0\ref\VendasEComissoes.dll

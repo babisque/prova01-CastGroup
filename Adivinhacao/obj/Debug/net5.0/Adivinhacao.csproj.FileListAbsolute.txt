@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.exe
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.deps.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.runtimeconfig.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.runtimeconfig.dev.json
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\bin\Debug\net5.0\Adivinhacao.pdb
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.AssemblyInfo.cs
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\refint\Adivinhacao.dll
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.pdb
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\Adivinhacao.genruntimeconfig.cache
+C:\Users\rodri\Documents\CastGroup\Prova 01\CastGroup\Adivinhacao\obj\Debug\net5.0\ref\Adivinhacao.dll
