@@ -12,12 +12,13 @@ namespace Farmacia
             {
                 Console.WriteLine("Bem vindo ao sistema da Fármacia Cast!");
                 Console.WriteLine("\t1. Buscar um remédio.");
-                Console.WriteLine("\t2. Ver todos os remédios.");
-                Console.WriteLine("\t3. Sair");
+                Console.WriteLine("\t2. Buscar nome pelo sufixo");
+                Console.WriteLine("\t3. Ver todos os remédios.");
+                Console.WriteLine("\t4. Sair");
                 Console.Write("\n\nDigite sua opção: ");
                 int option = int.Parse(Console.ReadLine());
 
-                if (option == 3) break;                
+                if (option == 4) break;                
 
                 switch (option)
                 {
@@ -31,11 +32,7 @@ namespace Farmacia
                             if (drug.ToLower() == drugToSearch.ToLower())
                             {
                                 Console.WriteLine($"{drug} encontrado, posição no estoque {Array.IndexOf(allDrugs, drug)}!");
-                            }
-                            else
-                            {
-                                Console.WriteLine($"{drugToSearch} não encontrado no estoque");
-                            }
+                            }                            
                         }
 
                         Console.Write("\n\nTecle ENTER para sair...");
@@ -43,6 +40,23 @@ namespace Farmacia
                         break;
 
                     case 2:
+                        Console.Clear();
+                        Console.Write("Digite o sufixo do remédio: ");
+                        string sufixToSearch = Console.ReadLine();
+
+                        foreach (string drug in allDrugs)
+                        {
+                            if (drug.EndsWith(sufixToSearch))
+                            {
+                                Console.WriteLine($"{drug} encontrado.");
+                            }
+                        }
+
+                        Console.Write("\n\nTecle ENTER para sair...");
+                        Console.ReadLine();
+                        break;
+
+                    case 3:
                         Console.Clear();
                         Array.Sort(allDrugs);
                         Console.WriteLine($"Total de remédios: {(allDrugs.Length) + 1}");
